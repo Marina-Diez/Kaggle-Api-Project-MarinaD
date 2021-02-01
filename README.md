@@ -1,4 +1,4 @@
-# KAGGLE AND APIS PROJECT - NY AIR B AND G
+# KAGGLE AND APIS PROJECT - NY AIR BnB
 
 ![abnb](images/nyc-600-x-250.jpg)
 
